@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hovatermi.github.io/sitemap
+Sitemap: https://hovatermi.github.io/app/sitemap
+Sitemap: https://hovatermi.github.io/assets/sitemap
+Sitemap: https://hovatermi.github.io/css/sitemap
+Sitemap: https://hovatermi.github.io/includes/sitemap
+Sitemap: https://hovatermi.github.io/item/sitemap
+Sitemap: https://hovatermi.github.io/src/sitemap
